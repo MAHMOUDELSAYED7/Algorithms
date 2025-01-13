@@ -1,7 +1,7 @@
 import 'dart:math' show Random;
 
-// quickSort
-// O(n*log n)
+//! quickSort
+//! O(n*log n)
 void main() {
   var list = <int>[];
   Random random = new Random();
